@@ -323,6 +323,12 @@
       ]
     },
     {
+      "SingularName": "AuTeaspoon",
+      "PluralName": "AuTeaspoons",
+      "FromUnitToBaseFunc": "{x} * 5e-6",
+      "FromBaseToUnitFunc": "{x} / 5e-6"
+    },
+    {
       "SingularName": "UsTeaspoon",
       "PluralName": "UsTeaspoons",
       "FromUnitToBaseFunc": "{x} * 4.92892159375e-6",
