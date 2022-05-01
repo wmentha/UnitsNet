@@ -314,5 +314,21 @@
         }
       ]
     }
+    {
+      "SingularName": "Mach",
+      "PluralName": "Mach",
+      "BaseUnits": {
+        "L": "Meter",
+        "T": "Second"
+      },
+      "FromUnitToBaseFunc": "{x} * 340.3",
+      "FromBaseToUnitFunc": "{x} / 340.3",
+      "Localization": [
+        {
+          "Culture": "en-US",
+          "Abbreviations": [ "M" ]
+        }
+      ]
+    }
   ]
 }
