@@ -15,6 +15,7 @@
       },
       "FromUnitToBaseFunc": "{x}",
       "FromBaseToUnitFunc": "{x}",
+      "Prefixes": ["Micro", "Milli", "Kilo", "Mega"],
       "Localization": [
         {
           "Culture": "en-US",
@@ -108,7 +109,7 @@
       "Localization": [
         {
           "Culture": "en-US",
-          "Abbreviations": [ "°R" ]
+          "Abbreviations": [ "°R", "°Ra", "R", "Ra" ]
         }
       ]
     },
